@@ -2,8 +2,8 @@
   <div id="app">
     <div> header</div>
     <HelloWorld msg="Vue.js aula da thais" oi="olá"/>
-    <Quadrado :n="3"/>
-    <Cubo :n="3"/>
+    <Quadrado :n="5"/>
+    <Cubo :n="5"/>
     
   </div>
 </template>
